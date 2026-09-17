@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@500;600;700&display=swap');
+:root{font-family:Manrope,Arial,sans-serif;color:#182922;background:#f5f8f5;font-synthesis:none;text-rendering:optimizeLegibility}*{box-sizing:border-box}body{margin:0;min-width:320px}button,textarea{font:inherit}button{cursor:pointer}button:focus-visible,textarea:focus-visible{outline:3px solid rgba(20,134,84,.28);outline-offset:2px}
